@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Flutter in Pods
+url_launcher in Pods, depends on:
+Flutter in Pods (explicit)
+webview_flutter in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+url_launcher in Pods (explicit)
+webview_flutter in Pods (explicit)

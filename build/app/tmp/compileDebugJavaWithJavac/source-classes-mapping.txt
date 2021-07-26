@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/wikibrowser/MainActivity.java
+ com.example.wikibrowser.MainActivity
+com/example/wikibrowser/BuildConfig.java
+ com.example.wikibrowser.BuildConfig
